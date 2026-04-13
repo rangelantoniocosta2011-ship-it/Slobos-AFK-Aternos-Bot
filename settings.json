@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "theprimatas",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "comedordecu",
+    "password": "33426",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "theprimatas.aternos.me",
+    "port": 33426,
     "version": "",
     "try-creative": false
   },
