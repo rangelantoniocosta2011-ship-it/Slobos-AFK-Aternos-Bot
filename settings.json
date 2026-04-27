@@ -1,5 +1,5 @@
 {
-  "name": "MinerandoSerio.aternos.me",
+  "name": "afk bot",
   "bot-account": {
     "username": "comedordecu",
     "password": "33426",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "MinerandoSerio.aternos.me",
     "port": 33426,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
